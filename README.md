@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Project Laravel 15 
+
+Project laravel 15 adalah project laravel yang dibuat untuk dapat login, menampilkan, membuat, mengedit, mendelete dan menglogout data mahasiswwa dan user. Dalam project ini memiliki banyak fitur yang ada, seperti berikut :
+- Login
+- Create
+- Update 
+- Delete
+- Bootstrap
+- Seeding (Library Facker)
+- RestApi
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
